@@ -1,0 +1,13 @@
+HasAns_exact = 67.08839406207828
+HasAns_f1 = 73.76033331796154
+HasAns_total = 5928
+NoAns_exact = 66.77880571909168
+NoAns_f1 = 66.77880571909168
+NoAns_total = 5945
+best_exact = 66.93337825317948
+best_exact_thresh = 0.0
+best_f1 = 70.26457137276839
+best_f1_thresh = 0.0
+exact = 66.93337825317948
+f1 = 70.26457137276829
+total = 11873

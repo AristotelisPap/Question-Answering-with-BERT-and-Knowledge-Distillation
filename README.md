@@ -26,7 +26,7 @@ Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, 
 
 ## 4. Code and Paper References
 
-1. A part of the code has been based on the publicly available code of [_HuggingFace Transformers library_](https://github.com/huggingface/transformers) 🤗.
+1. A part of the code has been based on the publicly available code of 🤗 [_HuggingFace Transformers library_](https://github.com/huggingface/transformers) and their corresponding research project on DistilBERT ([_code_](https://github.com/huggingface/transformers/tree/master/examples/research_projects/distillation)).
 2. V. Sanh, L. Debut, J. Chaumond, T. Wolf. DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. 5th Workshop on Energy Efficient Machine Learning and Cognitive Computing - NeurIPS 2019. ([_link_](https://arxiv.org/abs/1910.01108))
 3. G. Hinton, O. Vinyals, J. Dean. Distilling the Knowledge in a Neural Network. NIPS 2014 Deep Learning Workshop. ([_link_](https://arxiv.org/abs/1503.02531))
 4. Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT. ([_Medium Blog_](https://medium.com/huggingface/distilbert-8cf3380435b5))

@@ -12,10 +12,10 @@ Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, 
 ## 2. Results
 
 | Model                                                      | EM                    | F1 | HasAns_EM | HasAns_F1 | NoAns_EM | NoAns_F1  | No. of parameters (millions) |
-| :---:                                                      |    :---:              | :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| 
+| :---:                                                      |    :---:              | :---:| :---:| :---:| :---:| :---:| :---:| 
 | BERT-base-uncased                                          |  **72.43**            | **75.74** | 72.54 | 79.15 | 72.33 | 72.33 | 110 |   
 | DistilBERT-base-uncased (with distilled fine-tuning)       |  **70.05**            | **73.23** | 70.95 | 77.32 | 69.15 | 69.15 | 66 |   
-| DistilBERT-base-uncased (without distilled fine-tuning)    |  **66.93**             | **70.26** | 67.09 | 73.76 | 66.78 | 66.78 | 66 |  
+| DistilBERT-base-uncased (without distilled fine-tuning)    |  **66.93**            | **70.26** | 67.09 | 73.76 | 66.78 | 66.78 | 66 |  
 
 
 ## 3. Code and Paper References
